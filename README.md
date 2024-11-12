@@ -21,3 +21,6 @@
   title='pandas' width="40" height="40" />        
 <img src="https://skillforge.com/wp-content/uploads/2021/01/sql-querying-wpcf_285x300.jpg"
   title='sql' width="40" height="40" />
+
+You can find my portfolio here: 
+[Portfolio](https://github.com/SiriusSergio/portfolio)

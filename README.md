@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SiriusSergio. My name is Sergei
-- 👀 I’m interested in data analysis and chess.
+- 👋 Hi, my name is Sergei
+- 👀 Data Analyst from Moscow
 - 🌱 I’m currently learning Marketing Analysis
 - 💞️ I’m looking to collaborate on personal projects of any kind
 - 📫 You can reach me dorvardlabeled@gmail.com

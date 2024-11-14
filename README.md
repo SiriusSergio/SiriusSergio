@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Marketing Analysis
 - 💞️ I’m looking to collaborate on personal projects of any kind
-- 📫 You can reach me by email at davydyuksergey@yandex.ru
+- 📫 You can reach me out via email at davydyuksergey@yandex.ru
 - 🌏 C2 English level
 
 <div id='header' aligh='center'>
@@ -18,7 +18,4 @@
 * SQL
 * Tableau
 
-You can find my portfolio here: 
-[Portfolio](https://github.com/SiriusSergio/portfolio)
-
-And you can reach me out via [Telegram](https://t.me/sergeidavuduik)
+# Check out my [Portfolio](https://github.com/SiriusSergio/portfolio)

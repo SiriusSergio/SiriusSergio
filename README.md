@@ -20,3 +20,5 @@
 
 You can find my portfolio here: 
 [Portfolio](https://github.com/SiriusSergio/portfolio)
+
+And you can reach me out via [Telegram](https://t.me/sergeidavuduik)

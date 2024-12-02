@@ -16,6 +16,7 @@
   + matplotlib
   + seaborn
 * SQL
+  + PostgreSQL
 * Tableau
 
 # Check out my [Portfolio](https://github.com/SiriusSergio/portfolio)

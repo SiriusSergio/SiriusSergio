@@ -3,7 +3,7 @@
   <h3>Data Analyst from Moscow</h3>
 </div>
 
-- 🌱 I’m currently learning Marketing Analysis
+- 🌱 I’m currently interested in Marketing Analysis
 - 💞️ I’m looking to collaborate on personal projects of any kind
 - 📫 You can reach me out via email at davydyuksergey@yandex.ru
 - 🌏 C1 English level
